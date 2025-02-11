@@ -1,0 +1,13 @@
+.background{
+    background-color: rgb(231, 227, 222);
+}
+.title{
+    background-color: rgb(42, 114, 216);
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.col{
+    text-align: center;
+}

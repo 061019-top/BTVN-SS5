@@ -1,0 +1,10 @@
+.color-blue{
+    color: cornflowerblue;
+}
+.body{
+    background-color: beige;
+    border-left: 5px solid rgb(216, 216, 15); 
+}
+.h{
+    padding-left: 10px; 
+}

@@ -1,0 +1,45 @@
+
+h1 {
+    text-align: center;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+tr td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.chu {
+    background-color: green;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+
+.dinh {
+    background-color: yellow;
+    color: black;
+    border-radius: 3px;
+}
+
+.minh {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+}
+
+div {
+    background-color: rgb(229, 240, 240);
+}
+
+.chudinhminh {
+    background-color: rgb(240, 240, 236);
+}

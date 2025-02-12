@@ -1,0 +1,13 @@
+.mo{
+    opacity: 0.5;
+}
+.dam{
+    font-weight: bold;
+}
+.hai{
+    border-left: 3px solid rgb(142, 139, 139);
+    padding: 10px;
+}
+img{
+    border-radius: 10px;
+}
